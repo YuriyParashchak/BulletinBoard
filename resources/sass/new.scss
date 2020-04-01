@@ -1,0 +1,43 @@
+a.disabled {
+    pointer-events: none;
+    cursor: default;
+}
+
+//home//
+.post__container {
+    padding: 5px;
+    display: flex;
+    width: 800px;
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+
+.post__photo {
+
+}
+
+.post__context {
+    margin-left: 15px;
+    width: 100%;
+}
+
+.post__context_h {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+//end_home//
+
+//cabinet//
+.container__cabinet {
+    display: flex;
+    background-color: white;
+    justify-content: center;
+    padding: 20px;
+}
+.container__cabinet a{
+    margin-left: 20px;
+}
+//end_cabinet//
